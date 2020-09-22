@@ -1,0 +1,24 @@
+[04-Dec-2017 11:06:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:06:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:06:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:06:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:06:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:06:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[04-Dec-2017 11:07:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zustmeet/public_html/application/controllers/Users.php on line 86
+[19-Dec-2017 07:04:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:25 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[19-Dec-2017 07:44:33 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zustmeet/public_html/application/models/user/Users_model.php on line 216
+[26-Dec-2017 06:56:52 UTC] PHP Fatal error:  Call to undefined function diw() in /home/zustmeet/public_html/application/controllers/Users.php on line 103
